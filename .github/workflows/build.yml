@@ -12,13 +12,14 @@ jobs:
       - name: Compile LaTeX
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: main.tex  # Change to your main .tex filename if different
+          root_file: main.tex
+          docker_image: ghcr.io/xu-cheng/texlive-full:20241201
           
       - name: Upload PDF
         uses: actions/upload-artifact@v4
         with:
           name: CV
-          path: main.pdf  # Change to match your output filename if different
+          path: main.pdf
           
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
