@@ -640,17 +640,17 @@ stream
    </dc:language>
    <dc:date>
     <rdf:Seq>
-     <rdf:li>2026-01-15T15:54:14Z</rdf:li>
+     <rdf:li>2026-01-15T18:55:37Z</rdf:li>
     </rdf:Seq>
    </dc:date>
    <dc:format>application/pdf</dc:format>
    <dc:source>main.tex</dc:source>
    <xmp:CreatorTool>LaTeX with hyperref</xmp:CreatorTool>
-   <xmp:CreateDate>2026-01-15T15:54:14Z</xmp:CreateDate>
-   <xmp:ModifyDate>2026-01-15T15:54:14Z</xmp:ModifyDate>
-   <xmp:MetadataDate>2026-01-15T15:54:14Z</xmp:MetadataDate>
+   <xmp:CreateDate>2026-01-15T18:55:37Z</xmp:CreateDate>
+   <xmp:ModifyDate>2026-01-15T18:55:37Z</xmp:ModifyDate>
+   <xmp:MetadataDate>2026-01-15T18:55:37Z</xmp:MetadataDate>
    <xmpMM:DocumentID>uuid:fad58de7-3664-495d-8b46-50cfefac2fcd</xmpMM:DocumentID>
-   <xmpMM:InstanceID>uuid:8a50a834-5682-4274-8181-3055074a796f</xmpMM:InstanceID>
+   <xmpMM:InstanceID>uuid:94e038b6-9ecb-4d01-897f-636a3666ffae</xmpMM:InstanceID>
    <prism:complianceProfile>three</prism:complianceProfile>
    <prism:pageCount>4</prism:pageCount>
   </rdf:Description>
@@ -2713,7 +2713,7 @@ endobj
 endobj
 91 0 obj
 <<
-/Producer (pdftex-1.40.26)/Creator <FEFF004C006100540065005800200077006900740068002000680079007000650072007200650066>/CreationDate (D:20260115155414Z)/ModDate (D:20260115155414Z)
+/Producer (pdftex-1.40.26)/Creator <FEFF004C006100540065005800200077006900740068002000680079007000650072007200650066>/CreationDate (D:20260115185537Z)/ModDate (D:20260115185537Z)
 /Trapped /False
 /PTEX.Fullbanner (This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0)
 >>
@@ -2816,7 +2816,7 @@ trailer
 << /Size 92
 /Root 90 0 R
 /Info 91 0 R
-/ID [<C801C98F6D8181465801EBFFD5266CC9> <C801C98F6D8181465801EBFFD5266CC9>] >>
+/ID [<A69FB41F983282E0F6609551965C2EAB> <A69FB41F983282E0F6609551965C2EAB>] >>
 startxref
 203417
 %%EOF
