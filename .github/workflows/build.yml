@@ -1,0 +1,28 @@
+name: Build LaTeX CV
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Compile LaTeX
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: main.tex  # Change to your main .tex filename
+          
+      - name: Upload PDF
+        uses: actions/upload-artifact@v3
+        with:
+          name: CV
+          path: main.pdf  # Change to match your output filename
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
