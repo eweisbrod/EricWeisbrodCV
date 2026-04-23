@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.1)  15 JAN 2026 18:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.1)  23 APR 2026 20:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -522,18 +522,17 @@ Package tagpdf Warning: Parent-Child 'StructTreeRoot/pdf' --> 'MC
 [1
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive
-/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/opt/texlive/texdi
-r/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 130--140
+/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 122--129
 
  []
 
 
 
-[2]
+[2{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 192--212
+Underfull \hbox (badness 10000) in paragraph at lines 183--203
 
  []
 
@@ -546,22 +545,22 @@ L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14116 strings out of 473330
- 264070 string characters out of 5721821
- 880190 words of memory out of 5000000
+ 14117 strings out of 473330
+ 264076 string characters out of 5721821
+ 879211 words of memory out of 5000000
  37040 multiletter control sequences out of 15000+600000
  585483 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,1477b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,79p,1652b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></op
 t/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></opt/texl
 ive/texdir/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></opt/texlive/te
 xdir/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></opt/texlive/texdir/t
 exmf-dist/fonts/type1/public/cm-super/sfti0600.pfb></opt/texlive/texdir/texmf-d
 ist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (4 pages, 205415 bytes).
+Output written on main.pdf (4 pages, 205731 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
