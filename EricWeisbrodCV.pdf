@@ -229,15 +229,15 @@ Q
 BT
 /F65 10.9091 Tf 88.271 485.28 Td [(\210)]TJ
 0 g 0 G
+/F66 10.9091 Tf 10.847 0 Td [(example-pro)-1(ject)]TJ/F37 10.9091 Tf 84.558 0 Td [(:)-399(A)-246(Repro)-27(ducible)-246(Empirical)-245(Researc)27(h)-245(T)82(empl)1(ate.)-414(\050)]TJ/F42 10.9091 Tf 232.827 0 Td [(Under)-276(r)50(eview)-276(at)-276(the)]TJ/F64 10.9091 Tf 93.953 0 Td [(Jour-)]TJ -411.338 -14.904 Td [(nal)-411(of)-410(O)-1(p)59(en)-411(Sour)58(c)59(e)-411(Educ)58(ation)]TJ/F42 10.9091 Tf 162.807 0 Td [(.)]TJ/F37 10.9091 Tf 3.32 0 Td [(\051)]TJ
+0 g 0 G
+/F65 10.9091 Tf -176.974 -23.871 Td [(\210)]TJ
+0 g 0 G
 /F37 10.9091 Tf 10.847 0 Td [(Plain)28(ti\033)-72('s)-340(A)28(ttorney)-339(Mark)27(etin)1(g)-340(as)-340(a)-339(Signal)-339(of)-340(Corp)-27(orate)-340(Litigati)1(on)-340(Risk.)-466(\050with)-339(S.)-340(Kaplan,)-341(A.)]TJ 0 -14.904 Td [(Masli,)-331(and)-332(M.)-331(P)27(eterson\051)1(.)]TJ
 0 g 0 G
 /F65 10.9091 Tf -10.847 -23.871 Td [(\210)]TJ
 0 g 0 G
-/F37 10.9091 Tf 10.847 0 Td [(T)83(op)-322(Do)28(wn)-322(vs.)-439(Bottom)-322(Up)-322(Index)-321(F)82(orecas)1(ts:)-438(Are)-321(Mark)27(et)-322(St)1(rategists)-322(Strategically)-322(P)28(essimistic?)]TJ 0 -14.904 Td [(\050with)-331(M.)-332(P)28(ark)-332(and)-331(M.)-332(P)28(eterson\051.)]TJ
-0 g 0 G
-/F65 10.9091 Tf -10.847 -23.871 Td [(\210)]TJ
-0 g 0 G
-/F66 10.9091 Tf 10.847 0 Td [(example-pro)-1(ject)]TJ/F37 10.9091 Tf 84.558 0 Td [(:)-399(A)-246(Repro)-27(ducible)-246(Empirical)-245(Researc)27(h)-245(T)82(empl)1(ate.)-414(\050)]TJ/F42 10.9091 Tf 232.827 0 Td [(Under)-276(r)50(eview)-276(at)-276(the)]TJ/F64 10.9091 Tf 93.953 0 Td [(Jour-)]TJ -411.338 -14.904 Td [(nal)-411(of)-410(O)-1(p)59(en)-411(Sour)58(c)59(e)-411(Educ)58(ation)]TJ/F42 10.9091 Tf 162.807 0 Td [(.)]TJ/F37 10.9091 Tf 3.32 0 Td [(\051)]TJ/F64 10.9091 Tf -193.245 -30.165 Td [(Invite)58(d)-410(Pr)58(esentations)-411(and)-410(D)-1(i)1(s)-1(c)1(us)-1(sio)1(ns)]TJ
+/F37 10.9091 Tf 10.847 0 Td [(T)83(op)-322(Do)28(wn)-322(vs.)-439(Bottom)-322(Up)-322(Index)-321(F)82(orecas)1(ts:)-438(Are)-321(Mark)27(et)-322(St)1(rategists)-322(Strategically)-322(P)28(essimistic?)]TJ 0 -14.904 Td [(\050with)-331(M.)-332(P)28(ark)-332(and)-331(M.)-332(P)28(eterson\051.)]TJ/F64 10.9091 Tf -27.118 -30.165 Td [(Invite)58(d)-410(Pr)58(esentations)-411(and)-410(D)-1(i)1(s)-1(c)1(us)-1(sio)1(ns)]TJ
 ET
 q
 1 0 0 1 72 360.654 cm
@@ -653,17 +653,17 @@ stream
    </dc:language>
    <dc:date>
     <rdf:Seq>
-     <rdf:li>2026-05-26T15:50:41Z</rdf:li>
+     <rdf:li>2026-05-26T15:54:44Z</rdf:li>
     </rdf:Seq>
    </dc:date>
    <dc:format>application/pdf</dc:format>
    <dc:source>main.tex</dc:source>
    <xmp:CreatorTool>LaTeX with hyperref</xmp:CreatorTool>
-   <xmp:CreateDate>2026-05-26T15:50:41Z</xmp:CreateDate>
-   <xmp:ModifyDate>2026-05-26T15:50:41Z</xmp:ModifyDate>
-   <xmp:MetadataDate>2026-05-26T15:50:41Z</xmp:MetadataDate>
+   <xmp:CreateDate>2026-05-26T15:54:44Z</xmp:CreateDate>
+   <xmp:ModifyDate>2026-05-26T15:54:44Z</xmp:ModifyDate>
+   <xmp:MetadataDate>2026-05-26T15:54:44Z</xmp:MetadataDate>
    <xmpMM:DocumentID>uuid:fad58de7-3664-495d-8b46-50cfefac2fcd</xmpMM:DocumentID>
-   <xmpMM:InstanceID>uuid:d1f192c1-42ba-4ee8-8b29-05f8628eae4c</xmpMM:InstanceID>
+   <xmpMM:InstanceID>uuid:b5ed21ee-d41b-4e77-8131-951885a6ceb0</xmpMM:InstanceID>
    <prism:complianceProfile>three</prism:complianceProfile>
    <prism:pageCount>4</prism:pageCount>
   </rdf:Description>
@@ -3058,7 +3058,7 @@ endobj
 endobj
 98 0 obj
 <<
-/Producer (pdftex-1.40.26)/Creator <FEFF004C006100540065005800200077006900740068002000680079007000650072007200650066>/CreationDate (D:20260526155041Z)/ModDate (D:20260526155041Z)
+/Producer (pdftex-1.40.26)/Creator <FEFF004C006100540065005800200077006900740068002000680079007000650072007200650066>/CreationDate (D:20260526155444Z)/ModDate (D:20260526155444Z)
 /Trapped /False
 /PTEX.Fullbanner (This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) kpathsea version 6.4.0)
 >>
@@ -3168,7 +3168,7 @@ trailer
 << /Size 99
 /Root 97 0 R
 /Info 98 0 R
-/ID [<746FB1F919362FEF1BBD20CF5BEEEBDC> <746FB1F919362FEF1BBD20CF5BEEEBDC>] >>
+/ID [<994D9883A297A61C8692DA9EA4172203> <994D9883A297A61C8692DA9EA4172203>] >>
 startxref
 233092
 %%EOF

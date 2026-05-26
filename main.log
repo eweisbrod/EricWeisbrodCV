@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.1)  26 MAY 2026 15:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.1)  26 MAY 2026 15:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -523,7 +523,7 @@ Package tagpdf Warning: Parent-Child 'StructTreeRoot/pdf' --> 'MC
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive
 /texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 124--131
+Underfull \hbox (badness 10000) in paragraph at lines 125--132
 
  []
 
@@ -532,7 +532,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--131
 [2{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 185--205
+Underfull \hbox (badness 10000) in paragraph at lines 186--206
 
  []
 
